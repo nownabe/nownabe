@@ -23,6 +23,12 @@ Hi there! I'm Shawn Watanabe.
 * (JA) [Qiita](https://qiita.com/nownabe) - tech articles
 </details>
 
+## 🤝 Connect with Me
+
+[Twitter](https://twitter.com/nownabe)
+/ [Facebook](https://facebook.com/nownabe)
+/ [LinkedIn](https://www.linkedin.com/in/nownabe/)
+
 ## 📊 GitHub Stats
 
 <details>
@@ -32,16 +38,15 @@ Hi there! I'm Shawn Watanabe.
 [![Top Langs](https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-## 🤝 Connect with Me
-
-[Twitter](https://twitter.com/nownabe)
-/ [Facebook](https://facebook.com/nownabe)
-/ [LinkedIn](https://www.linkedin.com/in/nownabe/)
-
 ## 🐕 Ruby
+
+<details>
+    <summary>Who is Ruby?</summary>
 
 My adorable shiba dog Ruby. Ruby was named after a programming language [Ruby](https://www.ruby-lang.org/) 💎
 
 [Twitter](https://twitter.com/shiba_ruby) / [Instagram](https://twitter.com/shiba_ruby)
 
 <img src="./ruby.jpg" width="419" height="352">
+
+</details>
