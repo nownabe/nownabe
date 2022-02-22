@@ -25,11 +25,11 @@ Hi there! I'm Shawn Watanabe.
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true">
-<img align="center" src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com">
-
+<details>
+    <summary>Show stats</summary>
 [![nownabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ## 🤝 Connect with Me
 
