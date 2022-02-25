@@ -5,8 +5,6 @@ Hi there! I'm Shawn Watanabe.
 ## 🚀 Released Apps
 
 * [Brainfuck Board](https://brainfuck-board.nownabe.com/)
-* [x86 Emulator](https://x86-board.nownabe.com/)
-
 
 ## 📰 Recent Popular Articles
 
