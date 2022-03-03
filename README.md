@@ -43,7 +43,7 @@ Hi there! I'm Shawn Watanabe.
 
 Ruby is my adorable shiba dog, named after a programming language [Ruby](https://www.ruby-lang.org/) 💎
 
-[Twitter](https://twitter.com/shiba_ruby) / [Instagram](https://twitter.com/shiba_ruby)
+[Twitter](https://twitter.com/shiba_ruby) / [Instagram](https://www.instagram.com/shibadogruby/)
 
 <img src="./ruby.jpg" width="419" height="352">
 
