@@ -11,7 +11,7 @@ Software engineering with 6+ years of experience in developing applications and 
 * Customer Facing, Technical Consulting
 
 ## Professional Experience
-### Customer Engineer // [Google Cloud](https://cloud.google.com)
+### Customer Engineer // [Google Cloud Japan G.K.](https://cloud.google.com)
 
 **January 2020 to present**
 
@@ -44,7 +44,6 @@ Software engineering with 6+ years of experience in developing applications and 
 * Collaborated with international teams in the US and India.
 * Communicated with internal teams and stakeholders to integrate applications, infrastructure, security, network and operations, and to get agreements of business requirements.
 
-## Projects
 ## Education
 
 * [Master of Computer Science, University of Tsukuba](https://www.cs.tsukuba.ac.jp/english/), Japan (2013)
@@ -56,7 +55,56 @@ Software engineering with 6+ years of experience in developing applications and 
 * [Twitter DM](https://twitter.com/nownabe) - I can surely respond.
 * [E-mail](mailto:nownabe+resume@gmail.com) - Please use an eye-catching subject; otherwise I could miss it among crowded, noisy mail 😅
 
+## Projects
+
+<detail>
+<summary>Open all the projects</summary>
+### Google Cloud Japan
+#### Prototyping workshop
+
+
+### Wondershake Ltd.
+
+#### Infra migration
+
+#### Article classifier
+
+#### Backend for mobile app
+
+#### Data pipeline
+
+### Goodpatch Inc. 
+
+#### Web service renewal
+
+#### Web service for designers
+
+### IDC Frontier Inc.
+
+#### Load balancer as a service
+
+* Lead Software Engineer, from to May 2016
+
+#### RDB as a service
+
+* Software Engineer, from 
+
+#### Mobile backend as a service
+
+* Software Engineer, from Oct. 2013 to 
+
+#### IaaS platform Operation
+
+* Infrastructure Engineer, from Jul. 2013 to Oct. 2013
+* Validated storage hardware and conducted everyday operation on VMware and CloudStack
+* Keywords: VMware, CloudStack
+
+</detail>
+
 ## Supplemental Information
+<detail>
+<summary>Open supplemental information</summary>
+
 ### Certifications
 
 * [Fundamental Information Technology Engineer Examination (基本情報技術者試験)](https://www.jitec.ipa.go.jp/1_11seido/fe.html)
@@ -83,3 +131,5 @@ Software engineering with 6+ years of experience in developing applications and 
 * [Qiita](https://qiita.com/nownabe) - Tech articles (ja)
 * [nownab.log](https://blog.nownabe.com/) - Personal blog (ja)
 * [LinkedIn](https://www.linkedin.com/in/nownabe/)
+
+</detail>
