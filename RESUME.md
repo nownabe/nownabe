@@ -2,7 +2,7 @@
 
 Software engineering with 6+ years of experience in developing applications and architecting systems, and Pre-sales engineering with 2+ years of experience.
 
-## Relevant Skills
+## Skills
 
 * Go, Ruby, Python, TypeScript, JavaScript
 * Google Cloud, AWS
@@ -10,7 +10,7 @@ Software engineering with 6+ years of experience in developing applications and 
 * RESTful, gRPC, Git, SQL, HTML/CSS
 * Customer Facing, Technical Consulting
 
-## Professional Experience
+## Work Experience
 ### Customer Engineer // [Google Cloud Japan G.K.](https://cloud.google.com)
 
 **January 2020 to present**
@@ -39,7 +39,7 @@ Software engineering with 6+ years of experience in developing applications and 
 
 **April 2013 to April 2016**
 
-* Launched '[<ins>load balancer as a service</ins>](https://www.idcf.jp/cloud/ilb/)' in [<ins>IDCF Cloud</ins>](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component, and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB and HA proxy. REST API service provided the endpoint for users. Asynchronous workers, which were designed as idempotent, provisioned LB instances, networks and any other infrastructure. I developed an async job worker framework for it to operate infrastructure in idempotent ways. As well as developing workers, I tested capabilities of self-healing by injecting failures with this framework. Agent was embedded in LB instances to operate and configure them, subscribing command queues. Metrics collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure, and to charge users for traffic.
+* Launched '[<ins>load balancer as a service</ins>](https://www.idcf.jp/cloud/ilb/)' in [<ins>IDCF Cloud</ins>](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component, and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB and HA proxy. Asynchronous workers, which were designed as idempotent, provisioned LB instances, networks and any other infrastructure. I developed an async job worker framework for it to operate infrastructure in idempotent ways. As well as developing workers, I tested capabilities of self-healing by injecting failures with this framework. Agents were embedded in LB instances to operate and configure them, subscribing command queues. Metrics collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure, and to charge users for traffic.
 * Published API clients for cloud services as open-source software on GitHub.
 * Collaborated with international teams in the US and India.
 * Communicated with internal teams and stakeholders to integrate applications, infrastructure, security, network and operations, and to get agreements of business requirements.
@@ -52,58 +52,9 @@ Software engineering with 6+ years of experience in developing applications and 
 
 ## Contact
 
-* [Twitter DM](https://twitter.com/nownabe) - I can surely respond.
-* [E-mail](mailto:nownabe+resume@gmail.com) - Please use an eye-catching subject; otherwise I could miss it among crowded, noisy mail 😅
-
-## Projects
-
-<detail>
-<summary>Open all the projects</summary>
-### Google Cloud Japan
-#### Prototyping workshop
-
-
-### Wondershake Ltd.
-
-#### Infra migration
-
-#### Article classifier
-
-#### Backend for mobile app
-
-#### Data pipeline
-
-### Goodpatch Inc. 
-
-#### Web service renewal
-
-#### Web service for designers
-
-### IDC Frontier Inc.
-
-#### Load balancer as a service
-
-* Lead Software Engineer, from to May 2016
-
-#### RDB as a service
-
-* Software Engineer, from 
-
-#### Mobile backend as a service
-
-* Software Engineer, from Oct. 2013 to 
-
-#### IaaS platform Operation
-
-* Infrastructure Engineer, from Jul. 2013 to Oct. 2013
-* Validated storage hardware and conducted everyday operation on VMware and CloudStack
-* Keywords: VMware, CloudStack
-
-</detail>
+[Twitter DM](https://twitter.com/nownabe) / [E-mail](mailto:nownabe+resume@gmail.com)
 
 ## Supplemental Information
-<detail>
-<summary>Open supplemental information</summary>
 
 ### Certifications
 
@@ -115,7 +66,6 @@ Software engineering with 6+ years of experience in developing applications and 
 
 * Japanese (Native)
 * English (Business Intermediate)
-    * TOEIC Listening & Reading Test 860
 
 ### Personality
 
@@ -126,10 +76,12 @@ Software engineering with 6+ years of experience in developing applications and 
 ### Public Links
 
 * [GitHub](https://github.com/nownabe)
+  * [Overview about me](https://github.com/nownabe/nownabe/blob/main/README.md)
+  * [Work history in detail](https://github.com/nownabe/nownabe/blob/main/WORK_HISTORY.md)
 * [DEV.to](https://dev.to/nownabe) - Tech articles
 * [Zenn](https://zenn.dev/nownabe) - Tech articles (ja)
 * [Qiita](https://qiita.com/nownabe) - Tech articles (ja)
 * [nownab.log](https://blog.nownabe.com/) - Personal blog (ja)
 * [LinkedIn](https://www.linkedin.com/in/nownabe/)
+* [AtCoder](https://atcoder.jp/users/nownabe) - Competitive programming service
 
-</detail>
