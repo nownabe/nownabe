@@ -1,19 +1,41 @@
 # nownabe
 
-Hi there! I'm Shawn Watanabe.
+Hi there 👋 I'm Shawn Watanabe.
 
-## 🚀 Released Apps
+## 🚀 Works
 
-* [Brainfuck Board](https://brainfuck-board.nownabe.com/)
+### 2022
 
-## 📰 Recent Popular Articles
+* [database_cleaner-spanner](https://github.com/nownabe/database_cleaner-spanner) - An adapter of
+  Database Cleaner for cleaning Cloud Spanner (Ruby)
+* [ghrepos-organizer](https://github.com/nownabe/ghrepos-organizer) - A CLI tool to organize GitHub
+  repositories in a batch (TypeScript)
+* [Brainfuck Board](https://brainfuck-board.nownabe.com/) ([repo](https://github.com/nownabe/brainfuck-board)) -
+  A web application to enjoy Brainfuck (TypeScript, Next.js, Vercel)
+* [mclauncher](https://github.com/nownabe/mclauncher) - Web UI and a server app to manage Minecraft
+  server on Google Compute Engine (Python, FastAPI, Cloud Run)
+* [hubdiary](https://github.com/nownabe/hubdiary) - A CLI to write diary and save it in a GitHub
+  repository (Go)
+
+### before 2022
+
+* [bqloader](https://github.com/nownabe/go-bqloader) - A simple ETL framework to load data from
+  Google Cloud Storage into BigQuery (Go, Cloud Functions)
+* [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) - A web
+  app to demonstrate some Google Cloud products (Go, Next.js, App Engine)
+* [sekret](https://github.com/nownabe/sekret) - An encryption tool for Kubernetes Secrets (Go)
+* [x86 Board](https://x86-board.nownabe.com/) ([repo](https://github.com/nownabe/x86-board)) - An
+  emulator of x86 working on browsers which has indicators for registers and memories (JavaScript,
+  React)
+
+## 📰 Articles
 
 * [できるだけインフラ運用したくない Ruby on Rails on Google Cloud](https://zenn.dev/nownabe/articles/rails-on-google-cloud)
 * [我が家の BigQuery による台所事情分析](https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/)
 * [RailsアプリとかをAWSのレガシーシステムからGCPのイケイケシステムに移行した話](https://blog.nownabe.com/2019/05/21/migration-to-gcp.html/)
 
 <details>
-    <summary>Blog sites</summary>
+    <summary>Other articles</summary>
 
 * (EN) [DEV.to](https://dev.to/nownabe) - tech articles
 * (JA) [nownabeb.log](https://blog.nownabe.com/) - personal blog
