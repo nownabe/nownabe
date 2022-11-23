@@ -24,7 +24,7 @@ Hi there 👋 I'm Shawn Watanabe.
 * [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) - A web
   app to demonstrate some Google Cloud products (Go, Next.js, App Engine)
 * [sekret](https://github.com/nownabe/sekret) - An encryption tool for Kubernetes Secrets (Go)
-* [x86 Board](https://x86-board.nownabe.com/) ([repo](https://github.com/nownabe/x86-board)) - An
+* [x86 Board](https://x86board.nownabe.com/) ([repo](https://github.com/nownabe/x86-board)) - An
   emulator of x86 working on browsers which has indicators for registers and memories (JavaScript,
   React)
 
