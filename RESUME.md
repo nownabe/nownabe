@@ -5,24 +5,37 @@ Software engineering with 6+ years of experience in developing applications and 
 ## Skills
 
 * Go, Ruby, Python, TypeScript, JavaScript
-* Google Cloud, AWS
+* MySQL, Spanner, Firestore, BigQuery
+* Google Cloud, Amazon Web Services
 * Terraform, Kubernetes, Docker, Linux
 * RESTful, gRPC, Git, SQL, HTML/CSS
-* Customer Facing, Technical Consulting
+* Customer facing, technical consulting
 
 ## Work Experience
 ### Customer Engineer // [Google Cloud Japan G.K.](https://cloud.google.com)
 
 **January 2020 to present**
 
+* Led [Tech Acceleration Program](https://cloud.google.com/solutions/in-house-development-support)
+  (TAP) in my team. TAP is an architecting and prototyping 3-day workshop program where we dive
+  into customer's business, conduct domain modeling, design ideal architecture and build prototypes
+  as mob programming.
+* Created demos and hands-ons. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application to demonstrate some Google Cloud products on browser, written in Go, TypeScript (Next.js) and Terraform. Other small demos and hands-on materials are in [GitHub](https://github.com/orgs/ShawnLabo/repositories).
+* Provided best practices on Google Cloud, architecture review sessions, and engineering enablement
+  sessions regarding Google Cloud and cloud native skills.
+* Closed several deals successfully with large Japanese enterprise companies, having conversations
+  with stakeholders, discovering their objectives and concerns, digging their potential problems,
+  proposing appropriate solutions, making architecture designs, delivering product hands-on
+  sessions, driving their PoCs, and troubleshooting their applications.
 
+<!-- * Organized team logistics: 1) team dashboards for operational excellence, which allows team members to collect accurate information. 2) automated several routine works with chat bots. 3) -->
 
 ### Software Engineer // [Wondershake Ltd.](https://wondershake.com/)
 
 **August 2017 to December 2019**
 
-* Migrated the infrastructure of applications from VM-based architecture on AWS to containerized architecture on Google Kubernetes Engine, restructuring applications to optimize them into containerized architecture.     
-* Built a simple search engine for pictures based on cosine similarity of recognized objects from Vision API, in order to replace unlicensed pictures in articles with similar appropriate pictures. It was written in Go.
+* Migrated the infrastructure of applications from VM-based architecture on AWS to containerized architecture on Google Kubernetes Engine, restructuring applications to optimize them into containerized architecture.
+* Built a simple recommendation engine for pictures based on cosine similarity of recognized objects in pictures, in order to replace unlicensed pictures in articles with similar licensed pictures. The engine was written in Go and the UI was written with React.
 * Developed a machine learning model to classify articles with scikit-learn, Python. Built and provided the prediction API on the model as a gRPC API.
 * Launched multi-cloud data processing platform: transfer access logs and application logs from AWS to Google Cloud, transform raw data into well-formatted data on Cloud Dataflow, and load data into BigQuery.
 * Tuned backend API performance to render rapidly on mobile and to reduce backend load.
@@ -70,7 +83,7 @@ Software engineering with 6+ years of experience in developing applications and 
 ### Personality
 
 * I love dogs and live with my adorable [Shiba dog](https://www.instagram.com/shibadogruby/).
-* I like playing online video games, reading comics, walking my dog, and doing snow sports.
+* I like playing online video games, reading comics, walking my dog, traveling, and doing snow sports.
 * I like coding; solving everyday problems by creating software has been my life work since I was a kid.
 
 ### Public Links
