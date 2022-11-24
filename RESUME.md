@@ -9,7 +9,7 @@ Software engineering with 6+ years of experience in developing applications and 
 * Google Cloud, Amazon Web Services
 * Terraform, Kubernetes, Docker, Linux
 * RESTful, gRPC, Git, SQL, HTML/CSS
-* Customer facing, technical consulting
+* Customer-facing, technical consulting
 
 ## Work Experience
 ### Customer Engineer // [Google Cloud Japan G.K.](https://cloud.google.com)
@@ -18,24 +18,23 @@ Software engineering with 6+ years of experience in developing applications and 
 
 * Led [Tech Acceleration Program](https://cloud.google.com/solutions/in-house-development-support)
   (TAP) in my team. TAP is an architecting and prototyping 3-day workshop program where we dive
-  into customer's business, conduct domain modeling, design ideal architecture and build prototypes
-  as mob programming.
-* Created demos and hands-ons. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application to demonstrate some Google Cloud products on browser, written in Go, TypeScript (Next.js) and Terraform. Other small demos and hands-on materials are in [GitHub](https://github.com/orgs/ShawnLabo/repositories).
+  into clients' businesses, conduct domain modeling, design ideal architecture, and build prototypes
+  through mob programming.
+* Created demos and hands-ons. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application demonstrating some Google Cloud products on browsers, written in Go, TypeScript (Next.js), and Terraform. Other small demos and hands-on materials are on [GitHub](https://github.com/orgs/ShawnLabo/repositories).
 * Provided best practices on Google Cloud, architecture review sessions, and engineering enablement
-  sessions regarding Google Cloud and cloud native skills.
+  sessions regarding Google Cloud and cloud-native skills.
 * Closed several deals successfully with large Japanese enterprise companies, having conversations
-  with stakeholders, discovering their objectives and concerns, digging their potential problems,
+  with stakeholders, discovering their objectives and concerns, digging into their potential problems,
   proposing appropriate solutions, making architecture designs, delivering product hands-on
   sessions, driving their PoCs, and troubleshooting their applications.
-
-<!-- * Organized team logistics: 1) team dashboards for operational excellence, which allows team members to collect accurate information. 2) automated several routine works with chat bots. 3) -->
+* Organized team logistics: 1) team dashboards for operational excellence, which allows team members to collect accurate information. 2) automated several routine works with chatbots.
 
 ### Software Engineer // [Wondershake Ltd.](https://wondershake.com/)
 
 **August 2017 to December 2019**
 
 * Migrated the infrastructure of applications from VM-based architecture on AWS to containerized architecture on Google Kubernetes Engine, restructuring applications to optimize them into containerized architecture.
-* Built a simple recommendation engine for pictures based on cosine similarity of recognized objects in pictures, in order to replace unlicensed pictures in articles with similar licensed pictures. The engine was written in Go and the UI was written with React.
+* Built a simple recommendation engine for pictures based on the cosine similarity of recognized objects in pictures in order to replace unlicensed pictures in articles with similar licensed pictures. The engine was written in Go, and the UI was written with React.
 * Developed a machine learning model to classify articles with scikit-learn, Python. Built and provided the prediction API on the model as a gRPC API.
 * Launched multi-cloud data processing platform: transfer access logs and application logs from AWS to Google Cloud, transform raw data into well-formatted data on Cloud Dataflow, and load data into BigQuery.
 * Tuned backend API performance to render rapidly on mobile and to reduce backend load.
@@ -44,18 +43,22 @@ Software engineering with 6+ years of experience in developing applications and 
 
 **May 2016 to July 2017**
 
-* Launched a new product as a tech lead of backend apps, designing and implementing backend applications with Go and Kubernetes to provide a RESTful API for a single page application. Worked closely with the frontend app team, the designer team and the product team, and common language in these teams was English.
+* Launched a new product as a tech lead of backend apps, designing the architecture and implementing backend applications with Go and Kubernetes to provide a RESTful API for a single page application. Worked closely with the frontend, the designer, and the product team; the common language in these teams was English.
 * Architected applications, directed the tech team, improved EngProd, and educated junior developers as a tech lead.
-* Optimized backend applications written in Ruby, for example, I made copying projects of a product twice faster avoiding a lot of N+1 queries.
+* Optimized backend applications written with Ruby on Rails and MongoDB; for example, I made copying projects of a product twice faster by avoiding a lot of N+1 queries.
 
 ### Software Engineer // [IDC Frontier Inc.](https://www.idcf.jp/en/company/)
 
 **April 2013 to April 2016**
 
-* Launched '[<ins>load balancer as a service</ins>](https://www.idcf.jp/cloud/ilb/)' in [<ins>IDCF Cloud</ins>](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component, and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB and HA proxy. Asynchronous workers, which were designed as idempotent, provisioned LB instances, networks and any other infrastructure. I developed an async job worker framework for it to operate infrastructure in idempotent ways. As well as developing workers, I tested capabilities of self-healing by injecting failures with this framework. Agents were embedded in LB instances to operate and configure them, subscribing command queues. Metrics collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure, and to charge users for traffic.
+* Launched '[load balancer as a service](https://www.idcf.jp/cloud/ilb/)' in [IDCF Cloud](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB, and HA proxy. 
+  * Developed an asynchronous, idempotent job worker framework, and I built two applications with it. The provisioning worker configured and operated LB instances, networks, and other infrastructure in idempotent ways. Another application tested the capabilities of self-healing by injecting failures into infrastructure components.
+  * Built other components too; Agents were embedded in LB instances to operate and configure them, subscribing to command queues. Metrics Collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure and charging users for traffic.
+
+* Launched '[<ins>load balancer as a service</ins>](https://www.idcf.jp/cloud/ilb/)' in [<ins>IDCF Cloud</ins>](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB, and HA proxy. Asynchronous workers, which were designed as idempotent, provisioned LB instances, networks, and any other infrastructure. I developed an async job worker framework for it to operate infrastructure in idempotent ways. As well as developing workers, I tested capabilities of self-healing by injecting failures with this framework. Agents were embedded in LB instances to operate and configure them, subscribing command queues. Metrics collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure, and to charge users for traffic.
 * Published API clients for cloud services as open-source software on GitHub.
 * Collaborated with international teams in the US and India.
-* Communicated with internal teams and stakeholders to integrate applications, infrastructure, security, network and operations, and to get agreements of business requirements.
+* Communicated with internal teams and stakeholders to integrate applications, infrastructure, security, network, and operations and to get agreements on business requirements.
 
 ## Education
 
