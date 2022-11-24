@@ -1,5 +1,7 @@
 # Shawn Watanabe ([@nownabe](https://github.com/nownabe))
 
+[Twitter](https://twitter.com/nownabe) / [Email](mailto:nownabe+resume@gmail.com)
+
 Software engineering with 6+ years of experience in developing applications and architecting systems, and Pre-sales engineering with 2+ years of experience.
 
 ## Skills
@@ -64,10 +66,6 @@ Software engineering with 6+ years of experience in developing applications and 
 * [Bachelor of Informatics, University of Tsukuba](https://inf.tsukuba.ac.jp/en/), Japan (2011)
 * [Associate degree in Electrical and Computer Engineering, National Institute of Technology, Akashi College](https://www.akashi.ac.jp/english/dept/el.html), Japan (2009)
 
-## Contact
-
-[Twitter DM](https://twitter.com/nownabe) / [E-mail](mailto:nownabe+resume@gmail.com)
-
 ## Supplemental Information
 
 ### Certifications
@@ -91,7 +89,7 @@ Software engineering with 6+ years of experience in developing applications and 
 
 * [GitHub](https://github.com/nownabe)
   * [Overview about me](https://github.com/nownabe/nownabe/blob/main/README.md)
-  * [Work history in detail](https://github.com/nownabe/nownabe/blob/main/WORK_HISTORY.md)
+  * [Work history in detail (WIP)](https://github.com/nownabe/nownabe/blob/main/WORK_HISTORY.md)
 * [DEV.to](https://dev.to/nownabe) - Tech articles
 * [Zenn](https://zenn.dev/nownabe) - Tech articles (ja)
 * [Qiita](https://qiita.com/nownabe) - Tech articles (ja)
