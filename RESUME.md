@@ -22,14 +22,25 @@ Software engineering with 6+ years of experience in developing applications and 
   (TAP) in my team. TAP is an architecting and prototyping 3-day workshop program where we dive
   into clients' businesses, conduct domain modeling, design ideal architecture, and build prototypes
   through mob programming.
-* Created demos and hands-ons. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application demonstrating some Google Cloud products on browsers, written in Go, TypeScript (Next.js), and Terraform. Other small demos and hands-on materials are on [GitHub](https://github.com/orgs/ShawnLabo/repositories).
+* Designed and created demos and hands-on workshops. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application demonstrating some Google Cloud products on browsers, written in Go, TypeScript (Next.js), and Terraform. Other small demos and hands-on materials are on [GitHub](https://github.com/orgs/ShawnLabo/repositories).
 * Provided best practices on Google Cloud, architecture review sessions, and engineering enablement
   sessions regarding Google Cloud and cloud-native skills.
-* Closed several deals successfully with large Japanese enterprise companies, having conversations
+* Closed several deals successfully with large Japanese enterprises, having discussions 
   with stakeholders, discovering their objectives and concerns, digging into their potential problems,
   proposing appropriate solutions, making architecture designs, delivering product hands-on
   sessions, driving their PoCs, and troubleshooting their applications.
 * Organized team logistics: 1) team dashboards for operational excellence, which allows team members to collect accurate information. 2) automated several routine works with chatbots.
+
+<details>
+<summary>Public references I was involved in:</summary>
+
+* [富士通：Google Cloud の活用で IT 企業から DX 企業への "変革" を後押し | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/topics/customers/fujitsu-transforming-to-dx-company-by-leveraging-google-cloud)
+* [京セラドキュメントソリューションズ: リフトからシフトへ！ サーバーレス環境構築の内製化への取り組み](https://cloudonair.withgoogle.com/events/naiseika-day?talk=session1-2)
+* [パナソニックインフォメーションシステムズ: Smart Factory (IIoT Platform)　誕生秘話と今後の展望](https://cloudonair.withgoogle.com/events/naiseika-day?talk=session2-1)
+* [東急: DX 推進における内製化の 3 つのポイント](https://cloudonair.withgoogle.com/events/naiseika-day?talk=session2-3)
+* [ジェイアール東海情報システム株式会社: 設備異常通知システムの短期開発に、Tech Acceleration Program を利用 | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/application-development/jtis-tech-acceleration-program)
+* [東芝テック株式会社: クラウド版 POS システムのアーキテクチャ刷新に向けて、Tech Acceleration Program を利用 | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/application-development/toshibatec-tech-acceleration-program)
+</details>
 
 ### Software Engineer // [Wondershake Ltd.](https://wondershake.com/)
 
@@ -45,7 +56,7 @@ Software engineering with 6+ years of experience in developing applications and 
 
 **May 2016 to July 2017**
 
-* Launched a new product as a tech lead of backend apps, designing the architecture and implementing backend applications with Go and Kubernetes to provide a RESTful API for a single page application. Worked closely with the frontend, the designer, and the product team; the common language in these teams was English.
+* Launched a new product as a tech lead of backend apps, designing the architecture and implementing backend applications with Go and Kubernetes to provide a RESTful API for a single page application. Worked closely with the frontend engineers, designers, and the product team.
 * Architected applications, directed the tech team, improved EngProd, and educated junior developers as a tech lead.
 * Optimized backend applications written with Ruby on Rails and MongoDB; for example, I made copying projects of a product twice faster by avoiding a lot of N+1 queries.
 
@@ -53,8 +64,8 @@ Software engineering with 6+ years of experience in developing applications and 
 
 **April 2013 to April 2016**
 
-* Launched '[load balancer as a service](https://www.idcf.jp/cloud/ilb/)' in [IDCF Cloud](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). I designed the whole architecture that scaled based on each component and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB, and HA proxy. 
-  * Developed an asynchronous, idempotent job worker framework, and I built two applications with it. The provisioning worker configured and operated LB instances, networks, and other infrastructure in idempotent ways. Another application tested the capabilities of self-healing by injecting failures into infrastructure components.
+* Launched '[load balancer as a service](https://www.idcf.jp/cloud/ilb/)' in [IDCF Cloud](https://www.idcf.jp/en/cloud/) (Japanese domestic public cloud). Designed the whole architecture that scaled based on each component and implemented them with Ruby, RabbitMQ, Percona XtraDB Cluster, Influx DB, and HA proxy. 
+  * Developed an asynchronous, idempotent job worker framework, and built two applications with it. The provisioning worker configured and operated LB instances, networks, and other infrastructure in idempotent ways. Another application tested the capabilities of self-healing by injecting failures into infrastructure components.
   * Built other components too; Agents were embedded in LB instances to operate and configure them, subscribing to command queues. Metrics Collectors embedded in LB instances collected metrics like traffic and CPU usage. Aggregator aggregates metrics to trigger automatic operations such as recovering from failure and charging users for traffic.
 * Published API clients for cloud services as open-source software on GitHub.
 * Collaborated with international teams in the US and India.
@@ -83,7 +94,7 @@ Software engineering with 6+ years of experience in developing applications and 
 
 * I love dogs and live with my adorable [Shiba dog](https://www.instagram.com/shibadogruby/).
 * I like playing online video games, reading comics, walking my dog, traveling, and doing snow sports.
-* I like coding; solving everyday problems by creating software has been my life work since I was a kid.
+* I like coding; solving everyday problems by creating software, it has been my life work since I was a kid.
 
 ### Public Links
 
