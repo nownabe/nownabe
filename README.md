@@ -4,6 +4,9 @@ Hi there 👋 I'm Shawn Watanabe.
 
 ## 🚀 Works
 
+### 2023
+* [Vertex AI Matching Engine tutorial](https://github.com/GoogleCloudPlatform/matching-engine-tutorial-for-image-search) - A tutorial on Cloud Shell for Vertex AI Matching Engine building a similar image search system.
+
 ### 2022
 
 * [database_cleaner-spanner](https://github.com/nownabe/database_cleaner-spanner) - An adapter of
