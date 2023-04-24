@@ -53,7 +53,7 @@ Software engineering with 6+ years of experience in developing applications and 
 * Launched multi-cloud data processing platform: transfer access logs and application logs from AWS to Google Cloud, transform raw data into well-formatted data on Cloud Dataflow, and load data into BigQuery.
 * Tuned backend API performance to render rapidly on mobile and to reduce backend load.
 
-### Server-side Tech Lead // [Goodpatch Inc.](https://global.goodpatch.com/)
+### Backend Tech Lead // [Goodpatch Inc.](https://global.goodpatch.com/)
 
 **May 2016 to July 2017**
 
