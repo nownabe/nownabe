@@ -19,7 +19,7 @@ Software engineering with 6+ years of experience in developing applications and 
 **January 2020 to present**
 
 * Led [Tech Acceleration Program](https://cloud.google.com/solutions/in-house-development-support)
-  (TAP) in my team. TAP is an architecting and prototyping 3-day workshop program where we dive
+  (TAP) in the manufacturing industry. TAP is an architecting and prototyping 3-day workshop where we dive
   into clients' businesses, conduct domain modeling, design ideal architecture, and build prototypes
   through mob programming.
 * Designed and created demos and hands-on workshops. [Cloud Demo Portal](https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal) is a web application demonstrating some Google Cloud products on browsers, written in Go, TypeScript (Next.js), and Terraform. Other small demos and hands-on materials are on [GitHub](https://github.com/orgs/ShawnLabo/repositories).
