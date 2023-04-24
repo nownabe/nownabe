@@ -40,6 +40,7 @@ Software engineering with 6+ years of experience in developing applications and 
 * [東急: DX 推進における内製化の 3 つのポイント](https://cloudonair.withgoogle.com/events/naiseika-day?talk=session2-3)
 * [ジェイアール東海情報システム株式会社: 設備異常通知システムの短期開発に、Tech Acceleration Program を利用 | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/application-development/jtis-tech-acceleration-program)
 * [東芝テック株式会社: クラウド版 POS システムのアーキテクチャ刷新に向けて、Tech Acceleration Program を利用 | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/application-development/toshibatec-tech-acceleration-program)
+* [ヤマハ発動機: アプリからのデータ活用に挑戦 Tech Acceleration Program を活用 | Google Cloud 公式ブログ](https://cloud.google.com/blog/ja/products/application-development/yamaha-motor-tech-acceleration-program)
 </details>
 
 ### Software Engineer // [Wondershake Ltd.](https://wondershake.com/)
