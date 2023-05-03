@@ -38,12 +38,14 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 * [RailsアプリとかをAWSのレガシーシステムからGCPのイケイケシステムに移行した話](https://blog.nownabe.com/2019/05/21/migration-to-gcp.html/)
 
 <details>
-    <summary>Other articles</summary>
+  <summary>Other articles</summary>
 
-* (EN) [DEV.to](https://dev.to/nownabe) - tech articles
-* (JA) [nownabeb.log](https://blog.nownabe.com/) - personal blog
-* (JA) [Zenn](https://zenn.dev/nownabe) - tech articles
-* (JA) [Qiita](https://qiita.com/nownabe) - tech articles
+  <ul>
+    <li>(en) <a href="https://dev.to/nownabe">DEV.to</a> - tech articles</li>
+    <li>(ja) <a href="https://blog.nownabe.com/">nownab.log</a> - personal blog</li>
+    <li>(ja) <a href="https://zenn.dev/nownabe">Zenn</a> - tech articles</li>
+    <li>(ja) <a href="https://qiita.com/nownabe">Qiita</a> - tech articles</li>
+  </ul>
 </details>
 
 ## 🤝 Connect with Me
@@ -58,33 +60,29 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 <details>
   <summary>Open extra information</summary>
 
-<h3>📊 GitHub Stats</h3>
+  <h3>📊 GitHub Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true" alt="nownabe's GitHub stats">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com" alt="Top Langs">
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true" alt="nownabe's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com" alt="Top Langs">
+  </a>
 
-<h3>🎖  Certificates</h3>
+  <h3>🎖  Certificates</h3>
 
-<ul>
-  <li><a href="https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7">Google Cloud Certified Professional Cloud Developer</a></li>
-  <li><a href="https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14">Google Cloud Certified Professional Cloud Architect</a></li>
-</ul>
+  <ul>
+    <li><a href="https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7">Google Cloud Certified Professional Cloud Developer</a></li>
+    <li><a href="https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14">Google Cloud Certified Professional Cloud Architect</a></li>
+  </ul>
 
 </details>
 
 ## 🐕 Ruby
 
 <details>
-    <summary>Who is Ruby?</summary>
-
-Ruby is my adorable shiba dog, named after a programming language [Ruby](https://www.ruby-lang.org/) 💎
-
-[Twitter](https://twitter.com/shiba_ruby) / [Instagram](https://www.instagram.com/shibadogruby/)
-
-<img src="./ruby.jpg" width="419" height="352">
-
+  <summary>Who is Ruby?</summary>
+  <p>Ruby is my adorable shiba dog, named after a programming language <a href="https://www.ruby-lang.org/">Ruby</a> 💎</p>
+  <p><a href="https://twitter.com/shiba_ruby">Twitter</a> / <a href="https://www.instagram.com/shibadogruby/">Instagram</a></p>
+  <img src="./ruby.jpg" width="419" height="352">
 </details>
