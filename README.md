@@ -54,18 +54,25 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 / [AtCoder](https://atcoder.jp/users/nownabe)
 
 ## 🗞  Extra Information
+
 <details>
   <summary>Open extra information</summary>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
-[![nownabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true" alt="nownabe's GitHub stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com" alt="Top Langs">
+</a>
 
-### 🎖  Certificates
+<h3>🎖  Certificates</h3>
 
-* [Google Cloud Certified Professional Cloud Developer](https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7)
-* [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14)
+<ul>
+  <li><a href="https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7">Google Cloud Certified Professional Cloud Developer</a></li>
+  <li><a href="https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14">Google Cloud Certified Professional Cloud Architect</a></li>
+</ul>
 
 </details>
 
