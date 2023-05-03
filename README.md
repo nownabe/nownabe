@@ -1,6 +1,6 @@
 # nownabe
 
-Hi there 👋 I'm Shawn Watanabe.
+Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 
 ## 🚀 Works
 
@@ -53,13 +53,20 @@ Hi there 👋 I'm Shawn Watanabe.
 / [LinkedIn](https://www.linkedin.com/in/nownabe/)
 / [AtCoder](https://atcoder.jp/users/nownabe)
 
-## 📊 GitHub Stats
-
+## 🗞  Extra Information
 <details>
-    <summary>Show stats</summary>
+  <summary>Open extra information</summary>
+
+### 📊 GitHub Stats
 
 [![nownabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎖  Certificates
+
+* [Google Cloud Certified Professional Cloud Developer](https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7)
+* [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14)
+
 </details>
 
 ## 🐕 Ruby
