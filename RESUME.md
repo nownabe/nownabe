@@ -1,4 +1,4 @@
-# Shawn Watanabe ([@nownabe](https://github.com/nownabe))
+# Shogo Watanabe ([@nownabe](https://github.com/nownabe))
 
 [Twitter](https://twitter.com/nownabe) / [Email](mailto:nownabe+resume@gmail.com)
 
