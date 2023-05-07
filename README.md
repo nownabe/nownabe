@@ -84,5 +84,5 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
   <summary>Who is Ruby?</summary>
   <p>Ruby is my adorable shiba dog, named after a programming language <a href="https://www.ruby-lang.org/">Ruby</a> 💎</p>
   <p><a href="https://twitter.com/shiba_ruby">Twitter</a> / <a href="https://www.instagram.com/shibadogruby/">Instagram</a></p>
-  <img src="./ruby.jpg" width="419" height="352">
+  <img src="./ruby.avif" width="419" height="352">
 </details>
