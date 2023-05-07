@@ -5,6 +5,7 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 ## 🚀 Works
 
 ### 2023
+
 * [Vertex AI Matching Engine tutorial](https://github.com/GoogleCloudPlatform/matching-engine-tutorial-for-image-search) - An e2e tutorial on Cloud Shell for Vertex AI Matching Engine building a similar image search system (Python, Terraform).
 
 ### 2022
@@ -63,10 +64,10 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
   <h3>📊 GitHub Stats</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true" alt="nownabe's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nownabe&show_icons=true" alt="nownabe's GitHub stats" width="467" height="195">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com" alt="Top Langs">
+    <img src="https://github-readme-stats-delta-livid.vercel.app/api/top-langs/?username=nownabe&layout=compact&card_width=445&langs_count=8&exclude_repo=machine-learning-study,md-slide-skel,kana_bingo,tutorials,examples,skel-static_website,slides,blog-dev.nownabe.com" alt="Top Langs" width="495" height="190">
   </a>
 
   <h3>🎖  Certificates</h3>
