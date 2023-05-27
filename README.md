@@ -73,6 +73,7 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
   <h3>🎖  Certificates</h3>
 
   <ul>
+    <li><a href="https://google.accredible.com/93139e70-f906-41ab-b21c-4fc474363907">Google Cloud Certified Professional Cloud Database Engineer</a></li>
     <li><a href="https://google.accredible.com/76739be8-3318-419f-a4d4-954143f806e7">Google Cloud Certified Professional Cloud Developer</a></li>
     <li><a href="https://google.accredible.com/dc0918cf-765a-4327-9742-848076422e14">Google Cloud Certified Professional Cloud Architect</a></li>
   </ul>
