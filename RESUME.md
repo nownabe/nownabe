@@ -83,8 +83,9 @@ Software engineering with 6+ years of experience in developing applications and 
 ### Certifications
 
 * [Fundamental Information Technology Engineer Examination (基本情報技術者試験)](https://www.jitec.ipa.go.jp/1_11seido/fe.html)
-* [Google Cloud Professional Cloud Architect](https://www.credential.net/c16adb17-3b1d-4329-97f9-243b39fd517b)
-* [Google Cloud Professional Cloud Developer](https://www.credential.net/7f61b6fd-ee70-479f-8155-7e8976dce36e)
+* [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/dc0918cf-765a-4327-9742-848076422e14)
+* [Google Cloud Certified Professional Cloud Developer](https://www.credential.net/76739be8-3318-419f-a4d4-954143f806e7)
+* [Google Cloud Certified Professional Cloud Database Engineer](https://www.credential.net/93139e70-f906-41ab-b21c-4fc474363907)
 
 ### Languages
 
