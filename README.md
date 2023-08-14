@@ -21,7 +21,7 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 * [hubdiary](https://github.com/nownabe/hubdiary) - A CLI to write diary and save it in a GitHub
   repository (Go)
 
-### before 2022
+### old
 
 * [bqloader](https://github.com/nownabe/go-bqloader) - A simple ETL framework to load data from
   Google Cloud Storage into BigQuery (Go, Cloud Functions)
