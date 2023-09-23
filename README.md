@@ -6,9 +6,9 @@ Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
 
 ### 2023
 
-- [clog](https://github.com/nownabe/clog) - A Go logger optimized for Cloud Logging based on log/slog (Go).
-- [Golink](https://github.com/nownabe/golink) - A URL shortener for creating concise, memorable short links, suitable for organization-scoped use, such as in companies or schools. (Go, gRPC ([Connect](https://connectrpc.com/)), TypeScript, React, Chrome Extension, Google App Engine, Cloud Firestore, Identity-Aware Proxy)
-- [Vertex AI Matching Engine tutorial](https://github.com/GoogleCloudPlatform/matching-engine-tutorial-for-image-search) - An e2e tutorial on Cloud Shell for Vertex AI Matching Engine building a similar image search system (Python, Terraform).
+* [clog](https://github.com/nownabe/clog) - A Go logger optimized for Cloud Logging based on log/slog (Go).
+* [Golink](https://github.com/nownabe/golink) - A URL shortener for creating concise, memorable short links, suitable for organization-scoped use, such as in companies or schools. (Go, gRPC ([Connect](https://connectrpc.com/)), TypeScript, React, Chrome Extension, Google App Engine, Cloud Firestore, Identity-Aware Proxy)
+* [Vertex AI Matching Engine tutorial](https://github.com/GoogleCloudPlatform/matching-engine-tutorial-for-image-search) - An e2e tutorial on Cloud Shell for Vertex AI Matching Engine building a similar image search system (Python, Terraform).
 
 ### 2022
 
