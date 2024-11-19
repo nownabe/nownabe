@@ -1,6 +1,6 @@
 # nownabe
 
-Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan.
+Hi there 👋 I'm Shogo Watanabe, a software engineer from Japan. I'm a [Google Cloud Champion Innovator](https://cloud.google.com/innovators/champions) in Serverless App Development.
 
 ## 🚀 Works
 
